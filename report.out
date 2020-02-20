@@ -1,0 +1,475 @@
+************************************
+*  CDSW Project Disk Usage Report  *
+************************************
+---------Total Usage: 178M------------------
+
+
+
+
+
+Project 31 has been deleted
+Storage Path: /var/lib/cdsw/current/projects/projects/0/31
+Disk Usage: 16K
+----------------------------------------------------------
+
+
+
+Project Name: pyspark-demo
+Owner: admin
+Disk Usage: 39M
+Storage Path: /var/lib/cdsw/current/projects/projects/0/33
+----------------------------------------------------------
+
+
+
+Project Name: my_test_project
+Owner: account_view
+Disk Usage: 220K
+Storage Path: /var/lib/cdsw/current/projects/projects/0/34
+----------------------------------------------------------
+
+
+
+Project Name: helloworld
+Owner: account_view
+Disk Usage: 448K
+Storage Path: /var/lib/cdsw/current/projects/projects/0/35
+----------------------------------------------------------
+
+
+
+Project 36 has been deleted
+Storage Path: /var/lib/cdsw/current/projects/projects/0/36
+Disk Usage: 4.0K
+----------------------------------------------------------
+
+
+
+Project Name: dsfgfsdfdf
+Owner: ap_hadp_va_op
+Disk Usage: 100M
+Storage Path: /var/lib/cdsw/current/projects/projects/0/37
+----------------------------------------------------------
+
+
+
+Project Name: ea_z00042351
+Owner: ea_z00042351
+Disk Usage: 464K
+Storage Path: /var/lib/cdsw/current/projects/projects/0/38
+----------------------------------------------------------
+
+
+
+Project Name: cm_viewer
+Owner: localteam
+Disk Usage: 39M
+Storage Path: /var/lib/cdsw/current/projects/projects/0/39
+----------------------------------------------------------
+
+
+**************************************
+* CDSW User Last Login/Logout Report *
+**************************************
+----------------------------------
+
+ User ID |      User Name      |   Last Login Time    |   Last Logout Time   
+---------+---------------------+----------------------+----------------------
+       1 | admin               | 23-May-2019 14:41:47 | 23-May-2019 18:49:26
+       2 | ap_ebmw_digipath_op | 09-Apr-2019 15:17:46 | 23-May-2019 15:50:37
+       3 | account_view        | 09-Apr-2019 15:18:01 | 22-May-2019 16:06:27
+       4 | cm_viewer           | 17-Apr-2019 09:49:20 | 23-May-2019 15:24:31
+       5 | hdfs_audit          | 17-Apr-2019 09:58:55 | 23-May-2019 15:51:02
+       6 | localteam           |                      | 
+       7 | ap_hadp_va_op       | 18-Apr-2019 10:56:45 | 23-May-2019 14:47:42
+       8 | ap_dw_poc           | 22-Apr-2019 17:17:28 | 03-May-2019 16:18:39
+       9 | ap_ebmw_digipath    | 02-May-2019 13:55:22 | 08-May-2019 16:21:00
+      10 | dwpoc               |                      | 
+      11 | ea_z00041904        | 08-May-2019 16:53:40 | 20-May-2019 19:07:26
+      12 | ea_z00042351        | 08-May-2019 19:27:50 | 14-May-2019 13:37:09
+      13 | Z00041904           | 09-May-2019 17:15:23 | 20-May-2019 19:07:52
+      14 | testteam            |                      | 
+      15 | testforateamname    |                      | 
+      16 | test                | 22-May-2019 16:16:23 | 22-May-2019 16:16:31
+      17 | ckck                |                      | 
+(17 rows)
+
+
+
+********************************
+*   CDSW Projects List Report  *
+********************************
+----------------------------------
+
+     Owner     | Project ID |  Project Name   |     Created Time     
+---------------+------------+-----------------+----------------------
+ account_view  |         35 | helloworld      | 09-Apr-2019 15:18:01
+ account_view  |         34 | my_test_project | 09-Apr-2019 15:18:01
+ admin         |         33 | pyspark-demo    | 09-Apr-2019 14:34:49
+ ap_hadp_va_op |         37 | dsfgfsdfdf      | 18-Apr-2019 10:56:45
+ cm_viewer     |         39 | cm_viewer       | 17-Apr-2019 09:49:20
+ ea_z00042351  |         38 | ea_z00042351    | 08-May-2019 19:27:50
+(6 rows)
+
+**********************************
+*   CDSW Project Created Report  *
+**********************************
+----------------------------------
+
+ User ID |   User Name   |      IP       | Project ID |  Project Name   |     Created Time     
+---------+---------------+---------------+------------+-----------------+----------------------
+       4 | cm_viewer     | 10.34.85.119  |         39 | cm_viewer       | 23-May-2019 14:51:03
+      12 | ea_z00042351  | 10.33.179.103 |         38 | ea_z00042351    | 23-May-2019 10:34:48
+       7 | ap_hadp_va_op | 10.34.85.119  |         37 | dsfgfsdfdf      | 22-May-2019 17:12:16
+       3 | account_view  | 10.34.80.202  |         35 | helloworld      | 22-May-2019 15:58:01
+       3 | account_view  | 10.34.80.202  |         34 | my_test_project | 22-May-2019 15:50:54
+       1 | admin         | 10.34.80.202  |         33 | pyspark-demo    | 22-May-2019 15:46:56
+(6 rows)
+
+
+
+**********************************
+*  CDSW Project Deleted Report   *
+**********************************
+----------------------------------
+
+ User ID |      User Name      |      IP      | Project ID |     Deleted Time     
+---------+---------------------+--------------+------------+----------------------
+       1 | admin               | 10.34.80.200 | 31         | 23-May-2019 17:33:55
+      11 | ea_z00041904        | 10.34.85.119 | 25         | 09-May-2019 16:38:10
+       7 | ap_hadp_va_op       | 10.34.85.119 | 15         | 18-Apr-2019 17:43:29
+       2 | ap_ebmw_digipath_op | 10.34.85.119 | 5          | 10-Apr-2019 10:56:45
+       2 | ap_ebmw_digipath_op | 10.34.85.119 | 3          | 10-Apr-2019 10:18:35
+       2 | ap_ebmw_digipath_op | 10.34.85.119 | 4          | 10-Apr-2019 10:18:30
+       2 | ap_ebmw_digipath_op | 10.34.85.119 | 2          | 09-Apr-2019 15:38:13
+(7 rows)
+
+
+
+**********************************
+*  CDSW Session Running Report   *
+**********************************
+----------------------------------
+
+ User ID |   User Name   | Project ID |    Session ID    |   Session Name   | Session Memory | Session CPU | Session Kernel | Session Status |     Created Time     
+---------+---------------+------------+------------------+------------------+----------------+-------------+----------------+----------------+----------------------
+       7 | ap_hadp_va_op |         37 | r2pscw0rs47zimq5 | Untitled Session |              4 |           2 | r              | running        | 23-May-2019 14:16:17
+       4 | cm_viewer     |         39 | nxpa7j52yhta41ot | Untitled Session |              4 |           2 | python3        | running        | 23-May-2019 14:54:01
+      12 | ea_z00042351  |         38 | 6lfebu0ufuivbyc2 | Untitled Session |              2 |           1 | python3        | running        | 23-May-2019 10:34:55
+(3 rows)
+
+
+
+**********************************
+*  CDSW Session Launched Report  *
+**********************************
+----------------------------------
+
+ User ID |      User Name      |      IP       | Project ID |    Session ID    |                   Session Name                    | Session Memory | Session CPU | Session Kernel | Visibility |    Event Name    |         Time         
+---------+---------------------+---------------+------------+------------------+---------------------------------------------------+----------------+-------------+----------------+------------+------------------+----------------------
+       1 | admin               | 10.34.80.200  |         33 | 8mra9dhdy34wp6ew | Untitled Session                                  |              2 |           1 | python2        | private    | console launched | 23-May-2019 17:13:55
+       4 | cm_viewer           | 10.34.85.119  |         39 | nxpa7j52yhta41ot | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 23-May-2019 14:54:01
+       4 | cm_viewer           | 10.34.85.119  |         39 | cedb1zl7gy9f79q5 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 23-May-2019 14:52:11
+       7 | ap_hadp_va_op       | 10.34.85.119  |         37 | r2pscw0rs47zimq5 | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 23-May-2019 14:16:17
+       7 | ap_hadp_va_op       | 10.34.85.119  |         37 | qzpvx8hzl267hs4q | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 23-May-2019 13:55:49
+      12 | ea_z00042351        | 10.33.179.103 |         38 | 6lfebu0ufuivbyc2 | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 23-May-2019 10:34:55
+       7 | ap_hadp_va_op       | 10.34.85.119  |         37 | d3q0a1ihxjigngy0 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 22-May-2019 17:12:24
+       1 | admin               | 10.34.85.119  |         33 | jck1eh9rpz4hsklm | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 22-May-2019 17:06:46
+       1 | admin               | 10.34.85.119  |         33 | 0yd2xhu79jhvwyof | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 22-May-2019 17:04:54
+       3 | account_view        | 10.34.80.202  |         35 | yjiiix8uo92jegkc | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 22-May-2019 15:58:14
+       3 | account_view        | 10.34.80.202  |         34 | 4gbfdbyx5qwpoebd | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 22-May-2019 15:51:11
+       1 | admin               | 10.34.80.202  |         33 | en2fboxvqvj8n8yx | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 22-May-2019 15:47:16
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | ekwxgq57ss24gqtu | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 22-May-2019 11:42:22
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | yxztxm13nf7lc2rt | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 22-May-2019 10:32:59
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | gpvoptnpc5fimfji | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 22-May-2019 10:24:09
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | bpee7ra89sz1e8yl | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 22-May-2019 10:14:13
+       1 | admin               | 10.34.80.202  |          1 | 24z8q42ggknune8l | Untitled Session                                  |              2 |           1 | python2        | private    | console launched | 21-May-2019 10:11:29
+       1 | admin               | 10.34.80.202  |          1 | 76sm5yvvk22s0x79 | Untitled Session                                  |              2 |           1 | python2        | private    | console launched | 21-May-2019 10:10:26
+       1 | admin               | 10.34.80.202  |          1 | ds0ugis54mnp86nh | Untitled Session                                  |              2 |           1 | python2        | private    | console launched | 20-May-2019 14:15:00
+      11 | ea_z00041904        | 10.34.85.119  |         24 | 5bb2b90wuelpvtg7 | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 17-May-2019 16:18:12
+      11 | ea_z00041904        | 10.34.85.119  |         24 | ie8hfepo43paid1d | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 17-May-2019 16:15:34
+      12 | ea_z00042351        | 10.34.83.133  |         23 | fpzdtrccn05bq9y8 | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 13-May-2019 10:49:56
+      12 | ea_z00042351        | 10.34.83.114  |         23 | vi6nz3oaw0m9ruvx | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 10-May-2019 16:28:24
+      11 | ea_z00041904        | 10.34.85.119  |         27 | q5ww9phpfotqn9s9 | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 09-May-2019 16:39:31
+      11 | ea_z00041904        | 10.34.85.119  |         24 | w2bimjnljt5e3bia | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 09-May-2019 16:05:33
+      11 | ea_z00041904        | 10.34.85.119  |         24 | jtded0rnrqtavja2 | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 09-May-2019 13:04:26
+      11 | ea_z00041904        | 10.34.85.119  |         24 | lnd8v6oyz6jpo9s6 | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 09-May-2019 11:54:58
+      11 | ea_z00041904        | 10.34.85.119  |         25 | 5hqg86hbrr68d0a8 | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 09-May-2019 11:53:20
+      11 | ea_z00041904        | 10.34.85.119  |         25 | u4s8wi5eeviy9fv0 | Untitled Session                                  |             32 |           8 | python2        | private    | console launched | 09-May-2019 11:38:44
+      11 | ea_z00041904        | 10.34.85.119  |         25 | ab6w613zx3c9svr3 | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 09-May-2019 11:36:44
+      11 | ea_z00041904        | 10.34.85.119  |         25 | bxope1yk0t5se71w | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 09-May-2019 11:36:20
+      11 | ea_z00041904        | 10.34.85.119  |         24 | syy5z440togx7piw | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 09-May-2019 11:03:27
+       7 | ap_hadp_va_op       | 10.33.179.95  |         14 | 2fsbwcqrhixxs6di | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 08-May-2019 11:19:25
+       7 | ap_hadp_va_op       | 10.33.179.95  |         14 | kbhjq6411jppyxe3 | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 08-May-2019 11:05:22
+       7 | ap_hadp_va_op       | 10.34.83.95   |         20 | vy5gv8vkx4gjie3j | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 07-May-2019 15:09:18
+       7 | ap_hadp_va_op       | 10.34.83.95   |         20 | o51ipygujqkg09wu | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 07-May-2019 15:08:33
+       9 | ap_ebmw_digipath    | 10.33.147.110 |         14 | nrxa6gel12tnc3qr | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 07-May-2019 10:31:36
+       7 | ap_hadp_va_op       | 10.34.83.116  |         20 | 522h3oi4x15tlcsi | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 03-May-2019 16:47:40
+       7 | ap_hadp_va_op       | 10.34.83.116  |         20 | 5qx7yrl7njdr56x3 | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 03-May-2019 16:28:36
+       7 | ap_hadp_va_op       | 10.34.83.116  |         20 | ya7mrzabwtta6emm | Untitled Session                                  |             32 |           8 | r              | private    | console launched | 03-May-2019 15:37:10
+       8 | ap_dw_poc           | 10.34.83.116  |         21 | rtkpchwq4cn6aixo | Untitled Session                                  |             32 |           8 | r              | private    | console launched | 03-May-2019 11:15:22
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | en5dyp7wc5mlb0f3 | Untitled Session                                  |              2 |           1 | r              | private    | console launched | 02-May-2019 20:12:56
+       7 | ap_hadp_va_op       | 10.34.83.143  |         14 | ew53kdgralblaws3 | Untitled Session                                  |              2 |           1 | r              | private    | console launched | 02-May-2019 20:11:08
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | xjixfb9gup0phbs8 | Untitled Session                                  |              2 |           1 | r              | private    | console launched | 02-May-2019 20:08:01
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | 8n68bdzngfy8qcnu | Untitled Session                                  |              2 |           1 | r              | private    | console launched | 02-May-2019 20:05:43
+       7 | ap_hadp_va_op       | 10.34.83.143  |         14 | 8soauj2am56ikfcd | Untitled Session                                  |              2 |           1 | r              | private    | console launched | 02-May-2019 20:04:28
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | 146s8nnth2el60xn | Untitled Session                                  |              2 |           1 | r              | private    | console launched | 02-May-2019 20:02:50
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | 1ls3ug6z5fgxkwao | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 02-May-2019 19:58:46
+       7 | ap_hadp_va_op       | 10.34.83.143  |         14 | joagt1xcdo7mv341 | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 02-May-2019 19:56:51
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | ccb42dj9dhbz61ak | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 02-May-2019 19:54:54
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | ed9f4z5s6vb7r2v8 | Untitled Session                                  |             32 |           8 | r              | private    | console launched | 02-May-2019 14:02:59
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | pi61iwjx088ztjuk | Untitled Session                                  |              2 |           1 | r              | private    | console launched | 02-May-2019 13:46:45
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | lw4rcme8m8wvnjgr | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 02-May-2019 13:43:41
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | nfxloupe9khvd8xr | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 02-May-2019 13:28:17
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | 5h94nspv94qrsbgl | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 02-May-2019 13:10:49
+       7 | ap_hadp_va_op       | 10.34.83.121  |         14 | 8ibi452b9mn7zi01 | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 30-Apr-2019 16:11:31
+       8 | ap_dw_poc           | 10.34.83.121  |         17 | an3h0vik3q6wz6tp | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 30-Apr-2019 16:07:52
+       8 | ap_dw_poc           | 10.34.81.106  |         17 | 07pb3hy7pclaxs4s | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 30-Apr-2019 15:23:54
+       7 | ap_hadp_va_op       | 10.34.83.112  |         14 | 48ewnatf6tebensw | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 28-Apr-2019 12:07:13
+       2 | ap_ebmw_digipath_op | 10.34.83.112  |          6 | 7i6kqoz2mmkncrx4 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 28-Apr-2019 12:02:36
+       8 | ap_dw_poc           | 10.34.83.104  |         17 | 90wprczyo9smfgim | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 23-Apr-2019 13:19:36
+       8 | ap_dw_poc           | 10.34.81.106  |         17 | 8l2t1s6u8u6e6uqc | Untitled Session                                  |              2 |           1 | r              | private    | console launched | 22-Apr-2019 17:19:59
+       8 | ap_dw_poc           | 10.34.81.106  |         17 | j7xdmawllmvzpzvy | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 22-Apr-2019 17:18:05
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | e4ttix7yn1vtyepz | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 19-Apr-2019 16:18:06
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | pxa087anw1puzr6y | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 19-Apr-2019 16:16:43
+       7 | ap_hadp_va_op       | 10.33.59.116  |         14 | t5oehl331d27lyhw | Untitled Session                                  |             32 |           8 | r              | private    | console launched | 19-Apr-2019 15:50:38
+       7 | ap_hadp_va_op       | 10.33.59.116  |         14 | abe64r0k9icb0ruy | Untitled Session                                  |             32 |           8 | r              | private    | console launched | 19-Apr-2019 15:50:04
+       7 | ap_hadp_va_op       | 10.33.59.116  |         14 | zhijhxsjx20jqmrf | Untitled Session                                  |             32 |           8 | r              | private    | console launched | 19-Apr-2019 15:49:02
+       7 | ap_hadp_va_op       | 10.33.59.116  |         14 | sazs0ep78oshtswi | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 19-Apr-2019 15:48:33
+       7 | ap_hadp_va_op       | 10.33.59.116  |         14 | 826i5dlt961nylud | Python                                            |              4 |           2 | python3        | private    | console launched | 19-Apr-2019 15:35:42
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | qx637xi9si7jzqzz | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 18-Apr-2019 17:32:47
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | ndfywqsj44r2s4mb | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 18-Apr-2019 17:26:37
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | n5vys5dw3d7f4nvv | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 18-Apr-2019 17:23:12
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | 896qr8o8ycozbu6m | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 18-Apr-2019 17:17:39
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | 8dbvw8v59u7aut2i | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 18-Apr-2019 13:02:35
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | f3tu1gll234x128z | R                                                 |              4 |           2 | r              | private    | console launched | 18-Apr-2019 11:23:44
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | 5s0dlabemxmtjkf9 | Python                                            |              4 |           2 | python3        | private    | console launched | 18-Apr-2019 11:19:12
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | 2urv9rxu0n6mp8xx | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 18-Apr-2019 11:17:53
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | ro8k0yqkm59f4xes | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 18-Apr-2019 11:16:23
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | zr66wdj95y3cyois | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 18-Apr-2019 11:15:35
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | lxhz4g5x6flzkj9r | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 18-Apr-2019 10:59:53
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         13 | 97731k2vr4ctv6hm | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 17-Apr-2019 17:34:58
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | jb8mw2diiv2i6zgp | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 17:08:56
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         13 | ijv5xslyex3g3uiw | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 17:05:44
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | 63ep1yzhumr56xca | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 17:04:36
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | c95ee7b9y2zn9ky2 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 17:00:55
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | 89uq8g6lrewylyj1 | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 17-Apr-2019 16:25:08
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | owspqcaxqutqwdn7 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 15:56:14
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | fa1pwsjb17jox2sy | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 15:48:07
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | 1j7diobr6dx14tap | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 15:44:13
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          7 | 1zbxv9iujrqcmnt9 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 15:43:46
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          7 | ghxupwz0dxul235m | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 15:39:39
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | imo9r67zrvnsqv5v | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 15:00:57
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | fyep0xx0xek077p7 | Untitled Session                                  |              4 |           2 | python2        | private    | console launched | 17-Apr-2019 14:54:36
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | juev6yg34y2a3zid | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 14:51:07
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | x4ugqkbmrf5y4nxq | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 13:56:59
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | q3jomik5r9a5v31i | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 13:47:53
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | r8y0focs7ggw10kn | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 13:38:35
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | t36we2173op0t5f6 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 13:33:18
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 987ipay2qbijdcjf | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 13:32:34
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 9a4t4h6gtk6xd263 | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 17-Apr-2019 13:27:17
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | yg1pwolri5rrr099 | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 17-Apr-2019 13:24:20
+       4 | cm_viewer           | 10.34.85.119  |         11 | p28dadfoez7ym9om | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 10:43:02
+       5 | hdfs_audit          | 10.34.85.119  |          9 | rnea5lr8nfx2siaq | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 17-Apr-2019 10:01:06
+       3 | account_view        | 10.34.85.119  |          8 | vgm4mf134vimvmsv | test-public                                       |              4 |           2 | r              | private    | console launched | 17-Apr-2019 09:55:44
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | oubbwx7qyvheifdv | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 16-Apr-2019 15:14:47
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | t75dtduqzrcaxzyf | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 16-Apr-2019 14:50:33
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | xtt0s7yatw8hvfk4 | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 16-Apr-2019 14:47:51
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | sgh65shozeaw6zsa | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 16-Apr-2019 10:19:35
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | zsl3cmfv18wpr62b | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 15-Apr-2019 18:21:11
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | cz1bycde6jfoxxsk | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 15-Apr-2019 17:51:15
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 76nx64vb5pvatoje | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 15-Apr-2019 16:17:53
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | hly4k8u2dk1tj5vl | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 15-Apr-2019 15:21:03
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | lwv3cn8viy6c442r | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 15-Apr-2019 15:20:10
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | q1fs8xtw009ejcy4 | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 15-Apr-2019 14:59:37
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | opiylvv8ielgo0nj | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 15-Apr-2019 14:41:40
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 44b5r662al0es48s | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 17:34:41
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | sj3p8pne9imcqaku | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 11-Apr-2019 16:14:37
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 4rcedhhvu3we6jb5 | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 11-Apr-2019 16:12:16
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | cx15rgbvg3xc1v88 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 15:30:11
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | j4ef93q2jugcecom | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 11-Apr-2019 15:18:47
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | nnz6xqnjwydxhubz | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 14:31:47
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 3xnmp24zo83jb9uz | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 14:21:37
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | oxrbyfli6kjscwao | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 11:18:05
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | qs2dgjyjeuplvguy | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 11:11:22
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | y0x2qvqgd0rahg0h | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 11:06:47
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | lp3ioy285feqafef | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 10:58:46
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 0h3eiad0x5z3ylse | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 10:58:00
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 10rxd4w9qknd53u0 | Check if Project setting overwrite global setting |              4 |           2 | python3        | private    | console launched | 11-Apr-2019 10:01:37
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 8k6ac4a42cty224v | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 11-Apr-2019 09:57:42
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 3727fd8jvsjt01pr | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 10-Apr-2019 17:51:37
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 8hfxsyhj3906j5qd | Untitled Session                                  |              4 |           2 | r              | private    | console launched | 10-Apr-2019 17:49:02
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | zx3spnoruo35lhv7 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 17:13:44
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | ic6pdjlu4x23ogpy | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 16:34:13
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | yai7jflzg2harwxx | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 16:28:28
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 58o8b8lob2ghbfi7 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 16:13:29
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | o63fnh344e18ps6n | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 16:05:48
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 60sub0hpl5n47jxy | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 14:45:31
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 5n0aj2yrvv0702tb | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 14:10:29
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | b3uvlh4xhs9mhgnp | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 13:38:50
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          7 | y5l1oy8s7yb8ozz3 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 11:54:57
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          7 | qzhuhhr41crtgtyy | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 11:24:44
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          7 | 2cahxauvf4a9wdt3 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 10-Apr-2019 11:22:20
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | 27i8cszhsnvk0m1i | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 10-Apr-2019 10:40:26
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | hh00wwkow9lvtesh | Untitled Session                                  |             32 |           8 | python3        | specific   | console launched | 10-Apr-2019 10:38:32
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | mup1xyiixkiklafk | Untitled Session                                  |             32 |           8 | python2        | specific   | console launched | 10-Apr-2019 10:29:32
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | mj66wvjhxsqxsvy7 | Untitled Session                                  |             32 |           8 | python2        | private    | console launched | 10-Apr-2019 10:28:43
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | vki48f3747h3q5u7 | Session2                                          |              2 |           1 | python3        | private    | console launched | 10-Apr-2019 10:22:45
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | llp8upkabxc249zz | Untitled Session                                  |             32 |           8 | python3        | private    | console launched | 10-Apr-2019 10:19:41
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          4 | ylhp87pjpqz0mvio | Untitled Session                                  |              4 |           2 | python2        | private    | console launched | 09-Apr-2019 16:01:20
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          3 | ppekmcl4tjcdo81o | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 09-Apr-2019 15:56:00
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          3 | myla81328lxf3yrm | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 09-Apr-2019 15:52:39
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          3 | 0fsrgurq9rp9k2io | Untitled Session                                  |              4 |           2 | python2        | private    | console launched | 09-Apr-2019 15:43:55
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          3 | fwncne1sffawz4x4 | Untitled Session                                  |              4 |           2 | python3        | private    | console launched | 09-Apr-2019 15:40:09
+       3 | account_view        | 10.34.85.119  |          2 | s92ojvoubk82lh1t | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 09-Apr-2019 15:32:32
+       3 | account_view        | 10.34.85.119  |          2 | 220bkpx9mhkav0gt | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 09-Apr-2019 15:30:18
+       1 | admin               | 10.34.85.119  |          1 | 72q2ki9g94tda3pj | test1                                             |              2 |           1 | python3        | private    | console launched | 09-Apr-2019 14:56:48
+       1 | admin               | 10.34.85.119  |          1 | evbp7e5wmqry4t3w | Untitled Session                                  |              2 |           1 | python2        | private    | console launched | 09-Apr-2019 14:53:50
+       1 | admin               | 10.34.85.119  |          1 | aktn5bgfck7sgmjl | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 09-Apr-2019 14:51:43
+       1 | admin               | 10.34.85.119  |          1 | qsr475l6zhx6kp3v | Untitled Session                                  |              2 |           1 | python3        | private    | console launched | 09-Apr-2019 14:38:14
+(160 rows)
+
+
+
+**********************************
+*  CDSW Session Stopped Report   *
+**********************************
+----------------------------------
+
+ User ID |      User Name      |      IP       | Project ID |    Session ID    |                   Session Name                    | Session Memory | Session CPU | Session Kernel | Visibility |   Event Name    |         Time         
+---------+---------------------+---------------+------------+------------------+---------------------------------------------------+----------------+-------------+----------------+------------+-----------------+----------------------
+       1 | admin               | 10.34.80.200  |         33 | 8mra9dhdy34wp6ew | Untitled Session                                  |              2 |           1 | python2        | private    | console stopped | 23-May-2019 17:14:44
+       4 | cm_viewer           | 10.34.85.119  |         39 | cedb1zl7gy9f79q5 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 23-May-2019 14:54:00
+       7 | ap_hadp_va_op       | 10.34.85.119  |         37 | qzpvx8hzl267hs4q | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 23-May-2019 14:16:10
+       1 | admin               | 10.34.85.119  |         33 | 0yd2xhu79jhvwyof | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 22-May-2019 17:06:45
+       1 | admin               | 10.34.85.119  |         33 | en2fboxvqvj8n8yx | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 22-May-2019 17:04:45
+       3 | account_view        | 10.34.80.202  |         34 | 4gbfdbyx5qwpoebd | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 22-May-2019 15:57:23
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | yxztxm13nf7lc2rt | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 22-May-2019 11:42:16
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | gpvoptnpc5fimfji | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 22-May-2019 10:32:28
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | bpee7ra89sz1e8yl | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 22-May-2019 10:23:35
+       1 | admin               | 10.34.80.202  |          1 | 24z8q42ggknune8l | Untitled Session                                  |              2 |           1 | python2        | private    | console stopped | 21-May-2019 10:11:48
+       1 | admin               | 10.34.80.202  |          1 | 76sm5yvvk22s0x79 | Untitled Session                                  |              2 |           1 | python2        | private    | console stopped | 21-May-2019 10:11:11
+       1 | admin               | 10.34.80.202  |          1 | ds0ugis54mnp86nh | Untitled Session                                  |              2 |           1 | python2        | private    | console stopped | 20-May-2019 14:16:57
+      11 | ea_z00041904        | 10.34.85.119  |         24 | ie8hfepo43paid1d | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 17-May-2019 16:18:08
+      12 | ea_z00042351        | 10.34.83.133  |         23 | fpzdtrccn05bq9y8 | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 13-May-2019 10:54:11
+      12 | ea_z00042351        | 10.34.83.114  |         23 | vi6nz3oaw0m9ruvx | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 10-May-2019 16:29:07
+      11 | ea_z00041904        | 10.34.85.119  |         27 | q5ww9phpfotqn9s9 | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 09-May-2019 17:00:53
+      11 | ea_z00041904        | 10.34.85.119  |         24 | w2bimjnljt5e3bia | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 09-May-2019 16:33:51
+      11 | ea_z00041904        | 10.34.85.119  |         25 | 5hqg86hbrr68d0a8 | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 09-May-2019 11:54:49
+      11 | ea_z00041904        | 10.34.85.119  |         25 | u4s8wi5eeviy9fv0 | Untitled Session                                  |             32 |           8 | python2        | private    | console stopped | 09-May-2019 11:54:20
+      11 | ea_z00041904        | 10.34.85.119  |         25 | ab6w613zx3c9svr3 | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 09-May-2019 11:38:39
+      11 | ea_z00041904        | 10.34.85.119  |         24 | syy5z440togx7piw | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 09-May-2019 11:37:06
+      11 | ea_z00041904        | 10.34.85.119  |         25 | bxope1yk0t5se71w | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 09-May-2019 11:36:33
+       7 | ap_hadp_va_op       | 10.33.179.95  |         14 | kbhjq6411jppyxe3 | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 08-May-2019 11:19:05
+       7 | ap_hadp_va_op       | 10.34.83.95   |         20 | o51ipygujqkg09wu | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 07-May-2019 15:45:35
+       7 | ap_hadp_va_op       | 10.34.83.95   |         20 | vy5gv8vkx4gjie3j | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 07-May-2019 15:45:33
+       9 | ap_ebmw_digipath    | 10.33.147.110 |         14 | nrxa6gel12tnc3qr | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 07-May-2019 10:33:19
+       7 | ap_hadp_va_op       | 10.34.83.116  |         20 | 5qx7yrl7njdr56x3 | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 03-May-2019 16:37:10
+       7 | ap_hadp_va_op       | 10.34.83.116  |         20 | ya7mrzabwtta6emm | Untitled Session                                  |             32 |           8 | r              | private    | console stopped | 03-May-2019 16:28:16
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | ccb42dj9dhbz61ak | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 02-May-2019 20:06:51
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | ccb42dj9dhbz61ak | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 02-May-2019 20:06:50
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | 1ls3ug6z5fgxkwao | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 02-May-2019 20:06:48
+       7 | ap_hadp_va_op       | 10.34.83.143  |         14 | joagt1xcdo7mv341 | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 02-May-2019 20:06:46
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | 146s8nnth2el60xn | Untitled Session                                  |              2 |           1 | r              | private    | console stopped | 02-May-2019 20:06:45
+       7 | ap_hadp_va_op       | 10.34.83.143  |         14 | 8soauj2am56ikfcd | Untitled Session                                  |              2 |           1 | r              | private    | console stopped | 02-May-2019 20:06:44
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | 8n68bdzngfy8qcnu | Untitled Session                                  |              2 |           1 | r              | private    | console stopped | 02-May-2019 20:06:42
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | nfxloupe9khvd8xr | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 02-May-2019 13:43:25
+       7 | ap_hadp_va_op       | 10.34.83.143  |         20 | 5h94nspv94qrsbgl | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 02-May-2019 13:27:20
+       8 | ap_dw_poc           | 10.34.83.121  |         17 | 07pb3hy7pclaxs4s | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 30-Apr-2019 16:06:32
+       2 | ap_ebmw_digipath_op | 10.34.83.112  |          6 | 7i6kqoz2mmkncrx4 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 28-Apr-2019 12:06:39
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | zhijhxsjx20jqmrf | Untitled Session                                  |             32 |           8 | r              | private    | console stopped | 19-Apr-2019 16:17:50
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | sazs0ep78oshtswi | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 19-Apr-2019 16:17:46
+       7 | ap_hadp_va_op       | 10.33.59.116  |         14 | abe64r0k9icb0ruy | Untitled Session                                  |             32 |           8 | r              | private    | console stopped | 19-Apr-2019 15:51:03
+       7 | ap_hadp_va_op       | 10.33.59.116  |         14 | t5oehl331d27lyhw | Untitled Session                                  |             32 |           8 | r              | private    | console stopped | 19-Apr-2019 15:50:57
+       7 | ap_hadp_va_op       | 10.33.59.116  |         14 | 826i5dlt961nylud | Python                                            |              4 |           2 | python3        | private    | console stopped | 19-Apr-2019 15:47:44
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | ndfywqsj44r2s4mb | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 18-Apr-2019 17:41:26
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | qx637xi9si7jzqzz | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 18-Apr-2019 17:41:25
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | n5vys5dw3d7f4nvv | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 18-Apr-2019 17:24:27
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | 896qr8o8ycozbu6m | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 18-Apr-2019 17:18:09
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | 2urv9rxu0n6mp8xx | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 18-Apr-2019 11:18:42
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | ro8k0yqkm59f4xes | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 18-Apr-2019 11:17:21
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | zr66wdj95y3cyois | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 18-Apr-2019 11:16:20
+       7 | ap_hadp_va_op       | 10.34.85.119  |         14 | lxhz4g5x6flzkj9r | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 18-Apr-2019 11:13:53
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | c95ee7b9y2zn9ky2 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 17:04:31
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | owspqcaxqutqwdn7 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 16:24:33
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          7 | 1zbxv9iujrqcmnt9 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 15:55:04
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          7 | ghxupwz0dxul235m | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 15:42:58
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | imo9r67zrvnsqv5v | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 15:42:43
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | fyep0xx0xek077p7 | Untitled Session                                  |              4 |           2 | python2        | private    | console stopped | 17-Apr-2019 15:00:54
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |         12 | juev6yg34y2a3zid | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 14:54:23
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 987ipay2qbijdcjf | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 14:49:38
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | q3jomik5r9a5v31i | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 13:56:57
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | r8y0focs7ggw10kn | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 13:47:51
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | t36we2173op0t5f6 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 13:38:32
+       4 | cm_viewer           | 10.34.85.119  |         11 | p28dadfoez7ym9om | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 17-Apr-2019 10:46:35
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | t75dtduqzrcaxzyf | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 16-Apr-2019 15:14:46
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | xtt0s7yatw8hvfk4 | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 16-Apr-2019 14:50:31
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | cz1bycde6jfoxxsk | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 15-Apr-2019 18:21:02
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | lwv3cn8viy6c442r | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 15-Apr-2019 15:20:56
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | q1fs8xtw009ejcy4 | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 15-Apr-2019 15:20:08
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | opiylvv8ielgo0nj | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 15-Apr-2019 14:59:35
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | cx15rgbvg3xc1v88 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 11-Apr-2019 15:41:36
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | j4ef93q2jugcecom | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 11-Apr-2019 15:26:56
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 3xnmp24zo83jb9uz | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 11-Apr-2019 14:31:16
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | qs2dgjyjeuplvguy | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 11-Apr-2019 11:16:23
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | lp3ioy285feqafef | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 11-Apr-2019 11:01:24
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 0h3eiad0x5z3ylse | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 11-Apr-2019 10:58:07
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 10rxd4w9qknd53u0 | Check if Project setting overwrite global setting |              4 |           2 | python3        | private    | console stopped | 11-Apr-2019 10:56:02
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          6 | 8hfxsyhj3906j5qd | Untitled Session                                  |              4 |           2 | r              | private    | console stopped | 10-Apr-2019 17:51:23
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          7 | 2cahxauvf4a9wdt3 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 10-Apr-2019 11:24:37
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | hh00wwkow9lvtesh | Untitled Session                                  |             32 |           8 | python3        | specific   | console stopped | 10-Apr-2019 10:39:27
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | mup1xyiixkiklafk | Untitled Session                                  |             32 |           8 | python2        | specific   | console stopped | 10-Apr-2019 10:37:04
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | mj66wvjhxsqxsvy7 | Untitled Session                                  |             32 |           8 | python2        | private    | console stopped | 10-Apr-2019 10:30:10
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | vki48f3747h3q5u7 | Session2                                          |              2 |           1 | python3        | private    | console stopped | 10-Apr-2019 10:28:30
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          5 | llp8upkabxc249zz | Untitled Session                                  |             32 |           8 | python3        | private    | console stopped | 10-Apr-2019 10:28:29
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          4 | ylhp87pjpqz0mvio | Untitled Session                                  |              4 |           2 | python2        | private    | console stopped | 09-Apr-2019 16:03:23
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          3 | ppekmcl4tjcdo81o | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 09-Apr-2019 16:03:22
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          3 | myla81328lxf3yrm | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 09-Apr-2019 16:03:21
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          3 | 0fsrgurq9rp9k2io | Untitled Session                                  |              4 |           2 | python2        | private    | console stopped | 09-Apr-2019 16:03:12
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          3 | fwncne1sffawz4x4 | Untitled Session                                  |              4 |           2 | python3        | private    | console stopped | 09-Apr-2019 15:51:50
+       2 | ap_ebmw_digipath_op | 10.34.85.119  |          2 | s92ojvoubk82lh1t | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 09-Apr-2019 15:38:09
+       3 | account_view        | 10.34.85.119  |          2 | 220bkpx9mhkav0gt | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 09-Apr-2019 15:32:31
+       1 | admin               | 10.34.85.119  |          1 | 72q2ki9g94tda3pj | test1                                             |              2 |           1 | python3        | private    | console stopped | 09-Apr-2019 15:01:15
+       1 | admin               | 10.34.85.119  |          1 | aktn5bgfck7sgmjl | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 09-Apr-2019 14:55:51
+       1 | admin               | 10.34.85.119  |          1 | evbp7e5wmqry4t3w | Untitled Session                                  |              2 |           1 | python2        | private    | console stopped | 09-Apr-2019 14:55:50
+       1 | admin               | 10.34.85.119  |          1 | qsr475l6zhx6kp3v | Untitled Session                                  |              2 |           1 | python3        | private    | console stopped | 09-Apr-2019 14:51:40
+(95 rows)
+
+
+
+**********************************
+*     CDSW Team Account Report   *
+**********************************
+----------------------------------
+
+ Creator ID | Creator Name  | Team Account Name |         Time         
+------------+---------------+-------------------+----------------------
+          7 | ap_hadp_va_op | dwpoc             | 03-May-2019 15:56:53
+          1 | admin         | testforateamname  | 21-May-2019 14:56:20
+          4 | cm_viewer     | ckck              | 23-May-2019 17:47:17
+          4 | cm_viewer     | localteam         | 17-Apr-2019 10:08:00
+          4 | cm_viewer     | testteam          | 20-May-2019 16:00:55
+(5 rows)
+
+
+
+**********************************
+* CDSW Collaborator Added Report *
+**********************************
+----------------------------------
+
+ User ID |      User Name      |      IP       |     Event Name     | Collaborator Name |         Time         
+---------+---------------------+---------------+--------------------+-------------------+----------------------
+       2 | ap_ebmw_digipath_op | 10.34.85.119  | collaborator added | hdfs_audit        | 17-Apr-2019 11:02:03
+       2 | ap_ebmw_digipath_op | 10.34.85.119  | collaborator added | hdfs_audit        | 17-Apr-2019 11:02:23
+       7 | ap_hadp_va_op       | 10.34.83.116  | collaborator added | account_view      | 03-May-2019 15:54:38
+       7 | ap_hadp_va_op       | 10.33.147.110 | collaborator added | ap_ebmw_digipath  | 07-May-2019 10:10:59
+       7 | ap_hadp_va_op       | 10.33.147.110 | collaborator added | ap_ebmw_digipath  | 07-May-2019 10:11:05
+       1 | admin               | 10.34.80.202  | collaborator added | cm_viewer         | 20-May-2019 15:39:21
+       1 | admin               | 10.34.80.202  | collaborator added | cm_viewer         | 20-May-2019 15:46:11
+       1 | admin               | 10.34.80.202  | collaborator added | cm_viewer         | 20-May-2019 15:56:40
+       1 | admin               | 10.34.80.202  | collaborator added | account_view      | 21-May-2019 15:15:37
+(9 rows)
+
+
+

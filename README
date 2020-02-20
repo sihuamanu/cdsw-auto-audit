@@ -1,0 +1,4 @@
+1. To get the CDSW Usage Report: Please run the kickoff.sh directly, and get the result in report.out
+2. To clear the disk space that belong to a deleted project: Please run auto_clear_deleted_project.sh
+3. To clear the projects both in UI and at disk relevant to a specific user: Please run auto_clear_project_for_specific_user.sh, following with user name as the parameter. Example: sh auto_clear_project_for_specific_user.sh admin
+4. To check the public projects, run 
